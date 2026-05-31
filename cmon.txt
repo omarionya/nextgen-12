@@ -1,0 +1,3 @@
+this is a line in my document- 
+
+i want to experiment bash scripting with github.
